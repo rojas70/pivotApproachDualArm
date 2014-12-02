@@ -1,0 +1,6 @@
+#include "HRPcontroller.idl"
+
+interface forceSensorPlugin : OpenHRP::Plugin
+{
+  void test();
+};
